@@ -3,13 +3,12 @@
 **Goran Antić**
 - gorankami@gmail.com
 - http://lnkd.in/K7YNEx 
-- http://lnkd.in/K7YNEx 
 
 ## Work experience
 
 ### Daon Inc, Belgrade, Serbia
 
-- 3.2019 – current
+- 3.2019 – 01.2020
 - Senior Javascript Engineer
 - Working on web APIs, notably WebRTC features utilized for biometric authentication in the browser
 
