@@ -1,7 +1,6 @@
 # CV
 
 **Goran Antić**
-- gorankami@gmail.com
 - http://lnkd.in/K7YNEx 
 
 ## Work experience
@@ -10,37 +9,37 @@
 
 - 3.2019 – 01.2020
 - Senior Javascript Engineer
-- Working on web APIs, notably WebRTC features utilized for biometric authentication in the browser
+- Creating a Javascript SDK that enables developers to easily implement biometric authentication through the browser.
 
 ### TradeCore, Belgrade, Serbia
 
 - 11.2015 – 07.2018.
 - Senior Engineer/Technical lead
-- Technical lead, developer and architect on BrokerIQ web application (frontend). BrokerIQ is a system for business acceleration for brokers. It is utilized as a toolbox of services consisting payment processing, trading services, user verification, data analysis etc.
+- Technical lead, developer and architect on BrokerIQ web application (frontend). BrokerIQ is a system for business acceleration for brokers, a toolbox of services consisting of payment processing, trading services, user verification, data analysis etc.
 
 ### Astria d.o.o, Belgrade, Serbia
 
 - 12.2014 – 10.2015
 - Web developer
-- AngularJS and ASP.NET developer for finance and document management applications.
+- AngularJS and ASP.NET developer for finance and document management applications for clients in UK.
 
 ### Steinbeis Advanced Risk-technologies, Stuttgart, Germany
 
 - 09.2013 – 05.2014
 - IT manager and engineer (trainee)
-- ASP.NET development, computer administration, hardware administration and project management for risk management system and CMS portal. The system we built was a tool for risk assessment and management for industry sectors like electric power factories and oil refineries.
+- ASP.NET development, computer administration, hardware administration and project management for risk management system and CMS portal. Management and utility apps for risk assessment and management for industry sectors like electric power factories and oil refineries.
 
 ### Emisia Consulting, Kragujevac, Serbia
 
 - 02.2013 – 08.2013
 - Javascript developer
-- JavaSript SPA development (ExtJS/Sencha) on applications used or utilized by language translators
+- ExtJS/Sencha apps used or utilized by language translators.
 
 ### Asseco-SEE, Kragujevac, Serbia.
 
 - 09.2011 – 02.2013
 - Junior software developer
-- .NET development at forms projects, Java development of service workers and Documentum application manager.
+- .NET/Java applications and Documentum application manager.
 
 ## Education
 
